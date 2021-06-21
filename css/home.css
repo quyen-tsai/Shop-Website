@@ -29,8 +29,49 @@ footer#footer{
 img#one{
   length: 350px;
   width: 350px;
-  top:990px;
+  top:200px;
+  left: 475px;
   display: inline-block;
   position: absolute;
 
+}
+
+img#two{
+  length: 350px;
+  width: 350px;
+  top:200px;
+  right: 475px;
+  display: inline-block;
+  position: absolute;
+
+}
+
+img#three{
+  length: 350px;
+  width: 350px;
+  top:1000px;
+  right: 475px;
+  display: inline-block;
+  position: absolute;
+
+}
+
+img#four{
+  length: 350px;
+  width: 350px;
+  top:1000px;
+  left: 475px;
+  display: inline-block;
+  position: absolute;
+
+}
+
+a#logo{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
 }
